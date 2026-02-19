@@ -1,5 +1,9 @@
 # Abhishek N — Portfolio
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-indigo?style=for-the-badge&logo=github)](https://AbhishekN578.github.io/Portfolia)
+
+🌐 **Live Demo:** [https://AbhishekN578.github.io/Portfolia](https://AbhishekN578.github.io/Portfolia)
+
 A full-stack portfolio website built with **React**, **Django REST Framework**, and **MySQL**.
 
 ## 🚀 Tech Stack
